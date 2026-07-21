@@ -1,4 +1,4 @@
-# 中國重要政治會議行事曆
+# 中國行事曆
 
 提供可供 Google Calendar、Apple Calendar 與 Outlook 訂閱的 iCalendar（ICS）行事曆，整理中國重要例行政治會議與政策會議。
 
