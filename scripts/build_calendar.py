@@ -57,10 +57,10 @@ def main() -> None:
     for line in (
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
-        "PRODID:-//charles0506//China Political Calendar//ZH-TW",
+        "PRODID:-//charles0506//China Calendar//ZH-TW",
         "CALSCALE:GREGORIAN",
         "METHOD:PUBLISH",
-        "X-WR-CALNAME:中國重要政治會議",
+        "X-WR-CALNAME:中國行事曆",
         "X-WR-CALDESC:中國重要例行政治會議、正式會期與待官宣觀察窗",
         "X-WR-TIMEZONE:Asia/Shanghai",
         "REFRESH-INTERVAL;VALUE=DURATION:P1D",
