@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build china-political-calendar.ics from data/events.json."""
+"""Build the subscribed China calendar ICS from data/events.json."""
 
 from __future__ import annotations
 
