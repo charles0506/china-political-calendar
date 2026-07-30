@@ -1,6 +1,10 @@
 name: Weekly calendar check
 
 on:
+  push:
+    paths:
+      - "data/events.json"
+      - "scripts/build_calendar.py"
   schedule:
     # Every Monday 08:00 Asia/Taipei (Monday 00:00 UTC)
     - cron: "0 0 * * 1"
