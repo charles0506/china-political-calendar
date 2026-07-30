@@ -56,14 +56,14 @@
   },
   {
     "uid": "politburo-economy-2026-q3-window@china-political-calendar",
-    "summary": "【預估】中央政治局年中經濟會議觀察窗",
-    "start": "2026-07-20",
-    "end": "2026-08-01",
-    "status": "TENTATIVE",
-    "sequence": 0,
+    "summary": "【已官宣】7月30日中央政治局會議（下半年經濟工作）",
+    "start": "2026-07-30",
+    "end": "2026-07-31",
+    "status": "CONFIRMED",
+    "sequence": 1,
     "location": "北京",
-    "description": "依歷年慣例建立的觀察區間，常於7月底分析研究當前經濟形勢並部署下半年經濟工作；不是正式會期。",
-    "source": "https://www.gov.cn/"
+    "description": "中共中央政治局2026年7月30日召開會議，分析研究當前經濟形勢，部署下半年經濟工作，並決定2026年10月在北京召開二十屆五中全會。",
+    "source": "https://www.ettoday.net/news/20260730/3210428.htm"
   },
   {
     "uid": "pla-day-2026@china-political-calendar",
@@ -84,19 +84,19 @@
     "status": "TENTATIVE",
     "sequence": 0,
     "location": "北京",
-    "description": "官方已確認第十三屆北京香山論壇計畫於2026年秋季舉行，但截至2026年7月24日尚未公布正式日期；此事件僅為觀察窗。",
+    "description": "官方已確認第十三屆北京香山論壇計畫於2026年秋季舉行，但截至2026年7月30日尚未公布正式日期；此事件僅為觀察窗。",
     "source": "https://www.mod.gov.cn/gfbw/qwfb/16461683.html"
   },
   {
     "uid": "ccp-central-plenum-2026-autumn-window@china-political-calendar",
-    "summary": "【待官宣】2026年秋季中共中央全會觀察窗",
+    "summary": "【已官宣月份】二十屆五中全會（10月，確切日期待公布）",
     "start": "2026-10-01",
     "end": "2026-11-01",
     "status": "TENTATIVE",
-    "sequence": 0,
+    "sequence": 1,
     "location": "北京",
-    "description": "中央全會日期由中共中央政治局決定，並非固定年度日期。本事件僅作秋季觀察窗，不代表已確定召開或正式會期。",
-    "source": "https://www.gov.cn/"
+    "description": "中共中央政治局2026年7月30日決定，2026年10月在北京召開中國共產黨第二十屆中央委員會第五次全體會議。主要議程包括中央政治局向中央委員會報告工作，研究持之以恆推進全面從嚴治黨若干重大問題。確切起訖日期尚待官方公布，本事件暫以10月整月作提醒。",
+    "source": "https://www.ettoday.net/news/20260730/3210428.htm"
   },
   {
     "uid": "politburo-economy-2026-q4-window@china-political-calendar",
