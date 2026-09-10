@@ -45,9 +45,9 @@ https://raw.githubusercontent.com/charles0506/china-political-calendar/main/chin
 
 GitHub Actions 每週一 **08:00（Asia/Taipei）**執行：
 
-1. 驗證官方來源網址。
+1. 驗證官方來源網址（中國官網常擋海外連線，失敗只標示警告、不中斷重建；本機可加 `--strict` 嚴格檢查）。
 2. 重新產生 ICS。
-3. 只有內容變更時才提交更新。
+3. 只有事件內容變更時才提交更新（僅 `DTSTAMP` 不同不算變更）。
 
 目前自動程序主要負責來源檢查與重建 ICS；新官宣日期仍需先完成資料查核，再更新 `data/events.json`。
 

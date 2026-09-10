@@ -3,7 +3,9 @@
 
 from __future__ import annotations
 
+import argparse
 import json
+import os
 import sys
 import urllib.error
 import urllib.request
@@ -31,6 +33,15 @@ def check_url(url: str) -> tuple[bool, str]:
 
 
 def main() -> int:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument(
+        "--strict",
+        action="store_true",
+        help="exit with status 1 when any source URL fails",
+    )
+    args = parser.parse_args()
+
+    in_actions = os.environ.get("GITHUB_ACTIONS") == "true"
     events = json.loads(DATA_FILE.read_text(encoding="utf-8"))
     urls = sorted({event.get("source") for event in events if event.get("source")})
 
@@ -41,10 +52,14 @@ def main() -> int:
         print(f"[{marker}] {detail} {url}")
         if not ok:
             failed += 1
+            if in_actions:
+                print(f"::warning title=Source URL check failed::{detail} {url}")
 
     if failed:
-        print(f"\n{failed} source URL(s) failed validation.", file=sys.stderr)
-        return 1
+        print(f"\n{failed} of {len(urls)} source URL(s) failed validation.", file=sys.stderr)
+        # Official Chinese sites often block or break TLS for overseas runners,
+        # so failures are warnings unless --strict is given.
+        return 1 if args.strict else 0
 
     print(f"\nValidated {len(urls)} unique source URL(s).")
     return 0

@@ -48,6 +48,10 @@ def add(lines: list[str], line: str) -> None:
     lines.extend(fold_line(line))
 
 
+def without_dtstamp(text: str) -> str:
+    return "\r\n".join(line for line in text.split("\r\n") if not line.startswith("DTSTAMP:"))
+
+
 def main() -> None:
     events = json.loads(DATA_FILE.read_text(encoding="utf-8"))
     events.sort(key=lambda event: (event["start"], event["summary"]))
@@ -90,7 +94,14 @@ def main() -> None:
         add(lines, "END:VEVENT")
 
     add(lines, "END:VCALENDAR")
-    OUTPUT_FILE.write_text("\r\n".join(lines) + "\r\n", encoding="utf-8", newline="")
+    content = "\r\n".join(lines) + "\r\n"
+    if OUTPUT_FILE.exists():
+        current = OUTPUT_FILE.read_bytes().decode("utf-8")
+        if without_dtstamp(current) == without_dtstamp(content):
+            print(f"No event changes; kept {OUTPUT_FILE}")
+            return
+
+    OUTPUT_FILE.write_text(content, encoding="utf-8", newline="")
     print(f"Wrote {OUTPUT_FILE} with {len(events)} events")
 
 
