@@ -78,14 +78,14 @@
   },
   {
     "uid": "xiangshan-forum-2026-autumn-window@china-political-calendar",
-    "summary": "【待官宣】第十三屆北京香山論壇觀察窗",
-    "start": "2026-10-01",
-    "end": "2026-11-16",
-    "status": "TENTATIVE",
-    "sequence": 0,
-    "location": "北京",
-    "description": "官方已確認第十三屆北京香山論壇計畫於2026年秋季舉行，但截至2026年7月30日尚未公布正式日期；此事件僅為觀察窗。",
-    "source": "https://www.mod.gov.cn/gfbw/qwfb/16461683.html"
+    "summary": "【已官宣】第十三屆北京香山論壇",
+    "start": "2026-09-15",
+    "end": "2026-09-18",
+    "status": "CONFIRMED",
+    "sequence": 1,
+    "location": "北京國際會議中心",
+    "description": "第十三屆北京香山論壇，2026年9月15日至17日在北京國際會議中心舉行，主題為「凝聚穩定共識，同促安全治理」，適逢論壇創辦20週年。中國國防部新聞發言人張曉剛於2026年8月27日例行記者會公布，論壇安排4場全體會議與8場平行分組會議，並同期舉辦第四屆中非和平安全論壇。",
+    "source": "http://www.mod.gov.cn/gfbw/qwfb/16481616.html"
   },
   {
     "uid": "ccp-central-plenum-2026-autumn-window@china-political-calendar",
