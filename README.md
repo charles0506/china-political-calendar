@@ -32,6 +32,7 @@ https://raw.githubusercontent.com/charles0506/china-political-calendar/main/chin
 - 中央農村工作會議
 - 中共中央政治局季度經濟會議觀察窗
 - 中國共產黨全國代表大會觀察窗
+- 中國主辦之重大國際場合（例如 APEC 經濟領導人會議）
 
 ### 軍事與國防
 
