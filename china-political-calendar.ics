@@ -4,17 +4,20 @@ PRODID:-//charles0506//China Calendar//ZH-TW
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:中國行事曆
-X-WR-CALDESC:中國重要政治、軍事會議與紀念日
+X-WR-CALDESC:中國重要例行政治會議、正式會期與待官宣觀
+ 察窗
 X-WR-TIMEZONE:Asia/Shanghai
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:ccdi-20-5-2026@china-political-calendar
-DTSTAMP:20260724T020000Z
+DTSTAMP:20260910T122919Z
 DTSTART;VALUE=DATE:20260112
 DTEND;VALUE=DATE:20260115
 SUMMARY:【已官宣】二十屆中央紀委五次全會
-DESCRIPTION:中國共產黨第二十屆中央紀律檢查委員會第五次全體會議，2026年1月12日至14日舉行。\n來源：https://www.ccdi.gov.cn/toutiaon/202601/t20260114_469908.html
+DESCRIPTION:中國共產黨第二十屆中央紀律檢查委員會第五
+ 次全體會議，2026年1月12日至14日舉行。\n來源：https://ww
+ w.ccdi.gov.cn/toutiaon/202601/t20260114_469908.html
 LOCATION:北京
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -23,11 +26,13 @@ URL:https://www.ccdi.gov.cn/toutiaon/202601/t20260114_469908.html
 END:VEVENT
 BEGIN:VEVENT
 UID:cppcc-14-4-2026@china-political-calendar
-DTSTAMP:20260724T020000Z
+DTSTAMP:20260910T122919Z
 DTSTART;VALUE=DATE:20260304
 DTEND;VALUE=DATE:20260312
 SUMMARY:【已官宣】全國政協十四屆四次會議
-DESCRIPTION:中國人民政治協商會議第十四屆全國委員會第四次會議，2026年3月4日開幕、3月11日閉幕。\n來源：https://www.cppcc.gov.cn/
+DESCRIPTION:中國人民政治協商會議第十四屆全國委員會第
+ 四次會議，2026年3月4日開幕、3月11日閉幕。\n來源：http
+ s://www.cppcc.gov.cn/
 LOCATION:北京人民大會堂
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -36,11 +41,13 @@ URL:https://www.cppcc.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
 UID:npc-14-4-2026@china-political-calendar
-DTSTAMP:20260724T020000Z
+DTSTAMP:20260910T122919Z
 DTSTART;VALUE=DATE:20260305
 DTEND;VALUE=DATE:20260313
 SUMMARY:【已官宣】十四屆全國人大四次會議
-DESCRIPTION:第十四屆全國人民代表大會第四次會議，2026年3月5日至12日舉行。\n來源：https://www.npc.gov.cn/npc/c2/c30834/202603/t20260304_451977.html
+DESCRIPTION:第十四屆全國人民代表大會第四次會議，2026年
+ 3月5日至12日舉行。\n來源：https://www.npc.gov.cn/npc/c2/c30834
+ /202603/t20260304_451977.html
 LOCATION:北京人民大會堂
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -49,11 +56,12 @@ URL:https://www.npc.gov.cn/npc/c2/c30834/202603/t20260304_451977.html
 END:VEVENT
 BEGIN:VEVENT
 UID:pla-navy-day-2026@china-political-calendar
-DTSTAMP:20260724T020000Z
+DTSTAMP:20260910T122919Z
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260424
 SUMMARY:中國人民解放軍海軍成立紀念日
-DESCRIPTION:人民海軍成立紀念日，固定於每年4月23日。\n來源：https://www.81.cn/js_208592/jdt_208593/10149031.html
+DESCRIPTION:人民海軍成立紀念日，固定於每年4月23日。\n
+ 來源：https://www.81.cn/js_208592/jdt_208593/10149031.html
 LOCATION:中國
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -62,11 +70,12 @@ URL:https://www.81.cn/js_208592/jdt_208593/10149031.html
 END:VEVENT
 BEGIN:VEVENT
 UID:xiangshan-navigator-2026@china-political-calendar
-DTSTAMP:20260724T020000Z
+DTSTAMP:20260910T122919Z
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260510
 SUMMARY:【已官宣】2026北京香山論壇先導會
-DESCRIPTION:2026年北京香山論壇先導會，5月7日至9日在北京舉行。\n來源：https://www.mod.gov.cn/gfbw/xwfyr/16458478.html
+DESCRIPTION:2026年北京香山論壇先導會，5月7日至9日在北京
+ 舉行。\n來源：https://www.mod.gov.cn/gfbw/xwfyr/16458478.html
 LOCATION:北京
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -75,24 +84,29 @@ URL:https://www.mod.gov.cn/gfbw/xwfyr/16458478.html
 END:VEVENT
 BEGIN:VEVENT
 UID:politburo-economy-2026-q3-window@china-political-calendar
-DTSTAMP:20260724T020000Z
-DTSTART;VALUE=DATE:20260720
-DTEND;VALUE=DATE:20260801
-SUMMARY:【預估】中央政治局年中經濟會議觀察窗
-DESCRIPTION:依歷年慣例建立的觀察區間，常於7月底分析研究當前經濟形勢並部署下半年經濟工作；不是正式會期。\n來源：https://www.gov.cn/
+DTSTAMP:20260910T122919Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:【已官宣】7月30日中央政治局會議（下半年經濟
+ 工作）
+DESCRIPTION:中共中央政治局2026年7月30日召開會議，分析研
+ 究當前經濟形勢，部署下半年經濟工作，並決定2026年10
+ 月在北京召開二十屆五中全會。\n來源：https://www.ettoday
+ .net/news/20260730/3210428.htm
 LOCATION:北京
-STATUS:TENTATIVE
-SEQUENCE:0
+STATUS:CONFIRMED
+SEQUENCE:1
 TRANSP:TRANSPARENT
-URL:https://www.gov.cn/
+URL:https://www.ettoday.net/news/20260730/3210428.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:pla-day-2026@china-political-calendar
-DTSTAMP:20260724T020000Z
+DTSTAMP:20260910T122919Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:中國人民解放軍建軍節（八一建軍節）
-DESCRIPTION:中國人民解放軍建軍節，固定於每年8月1日。\n來源：https://www.81.cn/
+DESCRIPTION:中國人民解放軍建軍節，固定於每年8月1日。\n
+ 來源：https://www.81.cn/
 LOCATION:中國
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -100,12 +114,34 @@ TRANSP:TRANSPARENT
 URL:https://www.81.cn/
 END:VEVENT
 BEGIN:VEVENT
+UID:ccp-central-plenum-2026-autumn-window@china-political-calendar
+DTSTAMP:20260910T122919Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261101
+SUMMARY:【已官宣月份】二十屆五中全會（10月，確切日期
+ 待公布）
+DESCRIPTION:中共中央政治局2026年7月30日決定，2026年10月在
+ 北京召開中國共產黨第二十屆中央委員會第五次全體會
+ 議。主要議程包括中央政治局向中央委員會報告工作，
+ 研究持之以恆推進全面從嚴治黨若干重大問題。確切起
+ 訖日期尚待官方公布，本事件暫以10月整月作提醒。\n
+ 來源：https://www.ettoday.net/news/20260730/3210428.htm
+LOCATION:北京
+STATUS:TENTATIVE
+SEQUENCE:1
+TRANSP:TRANSPARENT
+URL:https://www.ettoday.net/news/20260730/3210428.htm
+END:VEVENT
+BEGIN:VEVENT
 UID:xiangshan-forum-2026-autumn-window@china-political-calendar
-DTSTAMP:20260724T020000Z
+DTSTAMP:20260910T122919Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261116
 SUMMARY:【待官宣】第十三屆北京香山論壇觀察窗
-DESCRIPTION:官方已確認第十三屆北京香山論壇計畫於2026年秋季舉行，但截至2026年7月24日尚未公布正式日期；此事件僅為觀察窗。\n來源：https://www.mod.gov.cn/gfbw/qwfb/16461683.html
+DESCRIPTION:官方已確認第十三屆北京香山論壇計畫於2026年
+ 秋季舉行，但截至2026年7月30日尚未公布正式日期；此
+ 事件僅為觀察窗。\n來源：https://www.mod.gov.cn/gfbw/qwfb/1646
+ 1683.html
 LOCATION:北京
 STATUS:TENTATIVE
 SEQUENCE:0
@@ -113,25 +149,13 @@ TRANSP:TRANSPARENT
 URL:https://www.mod.gov.cn/gfbw/qwfb/16461683.html
 END:VEVENT
 BEGIN:VEVENT
-UID:ccp-central-plenum-2026-autumn-window@china-political-calendar
-DTSTAMP:20260724T020000Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261101
-SUMMARY:【待官宣】2026年秋季中共中央全會觀察窗
-DESCRIPTION:中央全會日期由中共中央政治局決定，並非固定年度日期。本事件僅作秋季觀察窗，不代表已確定召開或正式會期。\n來源：https://www.gov.cn/
-LOCATION:北京
-STATUS:TENTATIVE
-SEQUENCE:0
-TRANSP:TRANSPARENT
-URL:https://www.gov.cn/
-END:VEVENT
-BEGIN:VEVENT
 UID:politburo-economy-2026-q4-window@china-political-calendar
-DTSTAMP:20260724T020000Z
+DTSTAMP:20260910T122919Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261101
 SUMMARY:【預估】中央政治局第四季經濟會議觀察窗
-DESCRIPTION:依歷年慣例建立的觀察區間，可能分析研究當前經濟形勢；不是正式會期。\n來源：https://www.gov.cn/
+DESCRIPTION:依歷年慣例建立的觀察區間，可能分析研究當
+ 前經濟形勢；不是正式會期。\n來源：https://www.gov.cn/
 LOCATION:北京
 STATUS:TENTATIVE
 SEQUENCE:0
@@ -140,11 +164,12 @@ URL:https://www.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
 UID:pla-air-force-day-2026@china-political-calendar
-DTSTAMP:20260724T020000Z
+DTSTAMP:20260910T122919Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:中國人民解放軍空軍成立紀念日
-DESCRIPTION:中國人民解放軍空軍成立紀念日，紀念空軍於1949年11月11日正式成立。\n來源：https://www.81.cn/
+DESCRIPTION:中國人民解放軍空軍成立紀念日，紀念空軍於1
+ 949年11月11日正式成立。\n來源：https://www.81.cn/
 LOCATION:中國
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -153,11 +178,13 @@ URL:https://www.81.cn/
 END:VEVENT
 BEGIN:VEVENT
 UID:central-economic-work-conference-2026-window@china-political-calendar
-DTSTAMP:20260724T020000Z
+DTSTAMP:20260910T122919Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261219
 SUMMARY:【預估】2026中央經濟工作會議觀察窗
-DESCRIPTION:中央經濟工作會議通常於12月召開，總結當年經濟工作並部署下一年經濟工作。本事件為觀察窗，待官方公布後更新。\n來源：https://www.gov.cn/
+DESCRIPTION:中央經濟工作會議通常於12月召開，總結當年
+ 經濟工作並部署下一年經濟工作。本事件為觀察窗，待
+ 官方公布後更新。\n來源：https://www.gov.cn/
 LOCATION:北京
 STATUS:TENTATIVE
 SEQUENCE:0
@@ -166,11 +193,13 @@ URL:https://www.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
 UID:central-rural-work-conference-2026-window@china-political-calendar
-DTSTAMP:20260724T020000Z
+DTSTAMP:20260910T122919Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261230
 SUMMARY:【預估】2026中央農村工作會議觀察窗
-DESCRIPTION:中央農村工作會議通常於年底召開，研究部署下一年度三農工作。本事件為觀察窗，待官方公布後更新。\n來源：https://www.gov.cn/
+DESCRIPTION:中央農村工作會議通常於年底召開，研究部署
+ 下一年度三農工作。本事件為觀察窗，待官方公布後更
+ 新。\n來源：https://www.gov.cn/
 LOCATION:北京
 STATUS:TENTATIVE
 SEQUENCE:0
@@ -179,11 +208,14 @@ URL:https://www.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
 UID:pla-rocket-force-day-2026@china-political-calendar
-DTSTAMP:20260724T020000Z
+DTSTAMP:20260910T122919Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-SUMMARY:中國人民解放軍火箭軍成立紀念日（原第二炮兵）
-DESCRIPTION:中國人民解放軍火箭軍於2015年12月31日正式成立，其前身為中國人民解放軍第二炮兵。\n來源：https://www.81.cn/js_208592/jdt_208593/16315566.html
+SUMMARY:中國人民解放軍火箭軍成立紀念日（原第二炮兵
+ ）
+DESCRIPTION:中國人民解放軍火箭軍於2015年12月31日正式成
+ 立，其前身為中國人民解放軍第二炮兵。\n來源：https:/
+ /www.81.cn/js_208592/jdt_208593/16315566.html
 LOCATION:中國
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -192,11 +224,12 @@ URL:https://www.81.cn/js_208592/jdt_208593/16315566.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ccdi-2027-window@china-political-calendar
-DTSTAMP:20260724T020000Z
+DTSTAMP:20260910T122919Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270117
 SUMMARY:【預估】2027年中央紀委全會觀察窗
-DESCRIPTION:中央紀委年度全會通常於1月召開，本事件為觀察窗，待官方公布後更新。\n來源：https://www.ccdi.gov.cn/
+DESCRIPTION:中央紀委年度全會通常於1月召開，本事件為觀
+ 察窗，待官方公布後更新。\n來源：https://www.ccdi.gov.cn/
 LOCATION:北京
 STATUS:TENTATIVE
 SEQUENCE:0
@@ -205,11 +238,13 @@ URL:https://www.ccdi.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
 UID:cppcc-national-2027-window@china-political-calendar
-DTSTAMP:20260724T020000Z
+DTSTAMP:20260910T122919Z
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270312
 SUMMARY:【預估】2027年全國政協會議觀察窗
-DESCRIPTION:全國政協年度會議通常於3月初召開。本事件為觀察窗，正式日期須以全國政協公布為準。\n來源：https://www.cppcc.gov.cn/
+DESCRIPTION:全國政協年度會議通常於3月初召開。本事件為
+ 觀察窗，正式日期須以全國政協公布為準。\n來源：http
+ s://www.cppcc.gov.cn/
 LOCATION:北京人民大會堂
 STATUS:TENTATIVE
 SEQUENCE:0
@@ -218,11 +253,14 @@ URL:https://www.cppcc.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
 UID:npc-national-2027-window@china-political-calendar
-DTSTAMP:20260724T020000Z
+DTSTAMP:20260910T122919Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270316
 SUMMARY:【預估】2027年全國人大會議觀察窗
-DESCRIPTION:全國人民代表大會年度會議於每年第一季度舉行，近年通常於3月5日開幕。本事件為觀察窗，正式日期須以全國人大常委會決定為準。\n來源：https://www.npc.gov.cn/
+DESCRIPTION:全國人民代表大會年度會議於每年第一季度舉
+ 行，近年通常於3月5日開幕。本事件為觀察窗，正式日
+ 期須以全國人大常委會決定為準。\n來源：https://www.npc.
+ gov.cn/
 LOCATION:北京人民大會堂
 STATUS:TENTATIVE
 SEQUENCE:0
@@ -231,11 +269,12 @@ URL:https://www.npc.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
 UID:pla-navy-day-2027@china-political-calendar
-DTSTAMP:20260724T020000Z
+DTSTAMP:20260910T122919Z
 DTSTART;VALUE=DATE:20270423
 DTEND;VALUE=DATE:20270424
 SUMMARY:中國人民解放軍海軍成立紀念日
-DESCRIPTION:人民海軍成立紀念日，固定於每年4月23日。\n來源：https://www.81.cn/js_208592/jdt_208593/10149031.html
+DESCRIPTION:人民海軍成立紀念日，固定於每年4月23日。\n
+ 來源：https://www.81.cn/js_208592/jdt_208593/10149031.html
 LOCATION:中國
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -244,11 +283,12 @@ URL:https://www.81.cn/js_208592/jdt_208593/10149031.html
 END:VEVENT
 BEGIN:VEVENT
 UID:pla-day-2027@china-political-calendar
-DTSTAMP:20260724T020000Z
+DTSTAMP:20260910T122919Z
 DTSTART;VALUE=DATE:20270801
 DTEND;VALUE=DATE:20270802
 SUMMARY:中國人民解放軍建軍節（八一建軍節）
-DESCRIPTION:中國人民解放軍建軍節，固定於每年8月1日。\n來源：https://www.81.cn/
+DESCRIPTION:中國人民解放軍建軍節，固定於每年8月1日。\n
+ 來源：https://www.81.cn/
 LOCATION:中國
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -257,11 +297,13 @@ URL:https://www.81.cn/
 END:VEVENT
 BEGIN:VEVENT
 UID:ccp-21st-congress-2027-window@china-political-calendar
-DTSTAMP:20260724T020000Z
+DTSTAMP:20260910T122919Z
 DTSTART;VALUE=DATE:20271001
 DTEND;VALUE=DATE:20271101
 SUMMARY:【待官宣】中共二十一大觀察窗
-DESCRIPTION:中國共產黨全國代表大會通常每五年舉行一次。二十一大預期於2027年舉行，但正式日期尚待官方公布；此處僅設秋季觀察窗。\n來源：https://www.gov.cn/
+DESCRIPTION:中國共產黨全國代表大會通常每五年舉行一次
+ 。二十一大預期於2027年舉行，但正式日期尚待官方公
+ 布；此處僅設秋季觀察窗。\n來源：https://www.gov.cn/
 LOCATION:北京
 STATUS:TENTATIVE
 SEQUENCE:0
@@ -270,11 +312,12 @@ URL:https://www.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
 UID:pla-air-force-day-2027@china-political-calendar
-DTSTAMP:20260724T020000Z
+DTSTAMP:20260910T122919Z
 DTSTART;VALUE=DATE:20271111
 DTEND;VALUE=DATE:20271112
 SUMMARY:中國人民解放軍空軍成立紀念日
-DESCRIPTION:中國人民解放軍空軍成立紀念日，紀念空軍於1949年11月11日正式成立。\n來源：https://www.81.cn/
+DESCRIPTION:中國人民解放軍空軍成立紀念日，紀念空軍於1
+ 949年11月11日正式成立。\n來源：https://www.81.cn/
 LOCATION:中國
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -283,11 +326,14 @@ URL:https://www.81.cn/
 END:VEVENT
 BEGIN:VEVENT
 UID:pla-rocket-force-day-2027@china-political-calendar
-DTSTAMP:20260724T020000Z
+DTSTAMP:20260910T122919Z
 DTSTART;VALUE=DATE:20271231
 DTEND;VALUE=DATE:20280101
-SUMMARY:中國人民解放軍火箭軍成立紀念日（原第二炮兵）
-DESCRIPTION:中國人民解放軍火箭軍於2015年12月31日正式成立，其前身為中國人民解放軍第二炮兵。\n來源：https://www.81.cn/js_208592/jdt_208593/16315566.html
+SUMMARY:中國人民解放軍火箭軍成立紀念日（原第二炮兵
+ ）
+DESCRIPTION:中國人民解放軍火箭軍於2015年12月31日正式成
+ 立，其前身為中國人民解放軍第二炮兵。\n來源：https:/
+ /www.81.cn/js_208592/jdt_208593/16315566.html
 LOCATION:中國
 STATUS:CONFIRMED
 SEQUENCE:0
