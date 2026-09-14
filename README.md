@@ -2,7 +2,7 @@
 
 提供可供 Google Calendar、Apple Calendar 與 Outlook 訂閱的 iCalendar（ICS）行事曆，整理中國重要例行政治會議、政策會議、國防論壇與軍事紀念日。
 
-> 最近人工查核：**2026-09-10（台灣時間）**
+> 最近人工查核：**2026-09-14（台灣時間）**
 
 ## 訂閱網址
 
@@ -41,6 +41,7 @@ https://raw.githubusercontent.com/charles0506/china-political-calendar/main/chin
 - 中國人民解放軍海軍成立紀念日
 - 中國人民解放軍空軍成立紀念日
 - 中國人民解放軍火箭軍成立紀念日（原第二炮兵）
+- 伏季休漁期結束（涉海警護航、釣魚台海域等動態）
 
 ## 自動檢查
 
