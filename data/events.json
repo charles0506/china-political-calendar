@@ -111,14 +111,14 @@
   },
   {
     "uid": "ccp-central-plenum-2026-autumn-window@china-political-calendar",
-    "summary": "【已官宣月份】二十屆五中全會（10月，確切日期待公布）",
-    "start": "2026-10-01",
-    "end": "2026-11-01",
-    "status": "TENTATIVE",
-    "sequence": 1,
+    "summary": "【已官宣】二十屆五中全會",
+    "start": "2026-10-26",
+    "end": "2026-10-30",
+    "status": "CONFIRMED",
+    "sequence": 2,
     "location": "北京",
-    "description": "中共中央政治局2026年7月30日決定，2026年10月在北京召開中國共產黨第二十屆中央委員會第五次全體會議。主要議程包括中央政治局向中央委員會報告工作，研究持之以恆推進全面從嚴治黨若干重大問題。確切起訖日期尚待官方公布，本事件暫以10月整月作提醒。",
-    "source": "https://www.ettoday.net/news/20260730/3210428.htm"
+    "description": "中共中央政治局2026年9月21日召開會議（習近平主持），決定中國共產黨第二十屆中央委員會第五次全體會議於2026年10月26日至29日在北京召開。會議聽取《中共中央關於持之以恆推進全面從嚴治黨若干重大問題的決定》稿徵求意見情況報告，決定修改後提請五中全會審議。新華網2026年9月21日發布。",
+    "source": "https://www.news.cn/politics/leaders/20260921/6d2f7db5a4c1477bb588a75e1ad87a4b/c.html"
   },
   {
     "uid": "politburo-economy-2026-q4-window@china-political-calendar",
