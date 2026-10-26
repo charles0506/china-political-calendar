@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:ccdi-20-5-2026@china-political-calendar
-DTSTAMP:20261005T014033Z
+DTSTAMP:20261026T125113Z
 DTSTART;VALUE=DATE:20260112
 DTEND;VALUE=DATE:20260115
 SUMMARY:【已官宣】二十屆中央紀委五次全會
@@ -26,7 +26,7 @@ URL:https://www.ccdi.gov.cn/toutiaon/202601/t20260114_469908.html
 END:VEVENT
 BEGIN:VEVENT
 UID:cppcc-14-4-2026@china-political-calendar
-DTSTAMP:20261005T014033Z
+DTSTAMP:20261026T125113Z
 DTSTART;VALUE=DATE:20260304
 DTEND;VALUE=DATE:20260312
 SUMMARY:【已官宣】全國政協十四屆四次會議
@@ -41,7 +41,7 @@ URL:https://www.cppcc.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
 UID:npc-14-4-2026@china-political-calendar
-DTSTAMP:20261005T014033Z
+DTSTAMP:20261026T125113Z
 DTSTART;VALUE=DATE:20260305
 DTEND;VALUE=DATE:20260313
 SUMMARY:【已官宣】十四屆全國人大四次會議
@@ -55,8 +55,27 @@ TRANSP:TRANSPARENT
 URL:https://www.npc.gov.cn/npc/c2/c30834/202603/t20260304_451977.html
 END:VEVENT
 BEGIN:VEVENT
+UID:boao-forum-2026@china-political-calendar
+DTSTAMP:20261026T125113Z
+DTSTART;VALUE=DATE:20260324
+DTEND;VALUE=DATE:20260328
+SUMMARY:【已官宣】博鰲亞洲論壇2026年年會
+DESCRIPTION:博鰲亞洲論壇2026年年會，2026年3月24日至27日在
+ 海南博鰲舉行，主題為「塑造共同未來：新形勢、新機
+ 遇、新合作」。適逢論壇成立25週年，也是海南自貿港
+ 全島封關運作後首次年會。新華網2026年3月23日發布。\n
+ 來源：https://www.news.cn/world/20260323/69b3abcf12d74701a0d5857243f3
+ ec4b/c.html
+LOCATION:海南博鰲東嶼島
+STATUS:CONFIRMED
+SEQUENCE:0
+TRANSP:TRANSPARENT
+URL:https://www.news.cn/world/20260323/69b3abcf12d74701a0d5857243f3ec4b/c
+ .html
+END:VEVENT
+BEGIN:VEVENT
 UID:pla-navy-day-2026@china-political-calendar
-DTSTAMP:20261005T014033Z
+DTSTAMP:20261026T125113Z
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260424
 SUMMARY:中國人民解放軍海軍成立紀念日
@@ -70,7 +89,7 @@ URL:https://www.81.cn/js_208592/jdt_208593/10149031.html
 END:VEVENT
 BEGIN:VEVENT
 UID:xiangshan-navigator-2026@china-political-calendar
-DTSTAMP:20261005T014033Z
+DTSTAMP:20261026T125113Z
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260510
 SUMMARY:【已官宣】2026北京香山論壇先導會
@@ -83,8 +102,46 @@ TRANSP:TRANSPARENT
 URL:https://www.mod.gov.cn/gfbw/xwfyr/16458478.html
 END:VEVENT
 BEGIN:VEVENT
+UID:straits-forum-2026@china-political-calendar
+DTSTAMP:20261026T125113Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:【已官宣】第十八屆海峽論壇大會
+DESCRIPTION:第十八屆海峽論壇大會於2026年6月13日在廈門舉
+ 行，中共中央政治局常委、全國政協主席王滬寧出席並
+ 致辭，重申一個中國原則與「九二共識」、反對「台獨
+ 」。論壇延續「擴大民間交流、深化融合發展」主題，
+ 設基層、青年、文化、經濟四大板塊共58項活動。新華
+ 網2026年6月13日發布。\n來源：https://www.news.cn/20260613/8a13
+ 1deb8d4744e5abba0e8c49ee715e/c.html
+LOCATION:福建廈門
+STATUS:CONFIRMED
+SEQUENCE:0
+TRANSP:TRANSPARENT
+URL:https://www.news.cn/20260613/8a131deb8d4744e5abba0e8c49ee715e/c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:summer-davos-2026@china-political-calendar
+DTSTAMP:20261026T125113Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260626
+SUMMARY:【已官宣】2026夏季達沃斯論壇（第十七屆新領軍
+ 者年會）
+DESCRIPTION:世界經濟論壇第十七屆新領軍者年會（夏季達
+ 沃斯論壇），2026年6月23日至25日在遼寧大連舉行，主題
+ 為「規模化創新」。閉幕時宣布第十八屆年會將於2027
+ 年在天津舉辦（日期未公布）。新華網2026年6月17日發
+ 布會期安排。\n來源：https://www.news.cn/20260617/573064396c6d44
+ bfa772d31882901663/c.html
+LOCATION:遼寧大連國際會議中心
+STATUS:CONFIRMED
+SEQUENCE:0
+TRANSP:TRANSPARENT
+URL:https://www.news.cn/20260617/573064396c6d44bfa772d31882901663/c.html
+END:VEVENT
+BEGIN:VEVENT
 UID:politburo-economy-2026-q3-window@china-political-calendar
-DTSTAMP:20261005T014033Z
+DTSTAMP:20261026T125113Z
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
 SUMMARY:【已官宣】7月30日中央政治局會議（下半年經濟
@@ -101,7 +158,7 @@ URL:https://www.ettoday.net/news/20260730/3210428.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:pla-day-2026@china-political-calendar
-DTSTAMP:20261005T014033Z
+DTSTAMP:20261026T125113Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:中國人民解放軍建軍節（八一建軍節）
@@ -115,7 +172,7 @@ URL:https://www.81.cn/
 END:VEVENT
 BEGIN:VEVENT
 UID:ccdi-20-6-2026@china-political-calendar
-DTSTAMP:20261005T014033Z
+DTSTAMP:20261026T125113Z
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
 SUMMARY:【已官宣】二十屆中央紀委六次全會
@@ -133,8 +190,68 @@ URL:https://www.news.cn/politics/20260822/66896bd92e254592af1dc67477d5711
  b/c.html
 END:VEVENT
 BEGIN:VEVENT
+UID:sco-summit-2026@china-political-calendar
+DTSTAMP:20261026T125113Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:【已官宣】上海合作組織成員國元首理事會第二
+ 十六次會議（比什凱克）
+DESCRIPTION:上海合作組織成員國元首理事會第二十六次會
+ 議，2026年9月1日在吉爾吉斯比什凱克舉行，由輪值主席
+ 國吉爾吉斯總統扎帕羅夫主持。國家主席習近平出席並
+ 發表題為《推動上海合作組織實現更高質量發展》的講
+ 話。適逢上合組織成立25週年。新華網2026年9月1日發布
+ 。\n來源：https://www.news.cn/20260901/cc9589d33a5245bf885f6665e93b5
+ 5fe/c.html
+LOCATION:吉爾吉斯比什凱克
+STATUS:CONFIRMED
+SEQUENCE:0
+TRANSP:TRANSPARENT
+URL:https://www.news.cn/20260901/cc9589d33a5245bf885f6665e93b55fe/c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ciftis-2026@china-political-calendar
+DTSTAMP:20261026T125113Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260914
+SUMMARY:【已官宣】2026年中國國際服務貿易交易會（服貿
+ 會）
+DESCRIPTION:2026年中國國際服務貿易交易會，2026年9月9日至
+ 13日在北京首鋼園舉行，前三天為專業觀眾日、後兩天
+ 為公眾開放日，主賓國為挪威，約90個國家和國際組織
+ 設展辦會。\n來源：https://www.ncsti.gov.cn/kjdt/ztbd/zggjfwmyjy/
+ 202609/t20260908_255509.html
+LOCATION:北京首鋼園
+STATUS:CONFIRMED
+SEQUENCE:0
+TRANSP:TRANSPARENT
+URL:https://www.ncsti.gov.cn/kjdt/ztbd/zggjfwmyjy/202609/t20260908_255509
+ .html
+END:VEVENT
+BEGIN:VEVENT
+UID:brics-summit-2026@china-political-calendar
+DTSTAMP:20261026T125113Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260914
+SUMMARY:【已官宣】金磚國家領導人第十八次會晤（新德
+ 里）
+DESCRIPTION:金磚國家領導人第十八次會晤，2026年9月12日至
+ 13日在印度新德里舉行，印度為輪值主席國。國家主席
+ 習近平應印度總理莫迪邀請出席兩階段會議，並與莫迪
+ 會見；會後發表《金磚國家領導人第十八次會晤新德里
+ 宣言》。中國外交部2026年9月12日發布。\n來源：https://w
+ ww.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_677220/xgxw_6772
+ 26/202609/t20260912_12021146.shtml
+LOCATION:印度新德里
+STATUS:CONFIRMED
+SEQUENCE:0
+TRANSP:TRANSPARENT
+URL:https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_6772
+ 20/xgxw_677226/202609/t20260912_12021146.shtml
+END:VEVENT
+BEGIN:VEVENT
 UID:xiangshan-forum-2026-autumn-window@china-political-calendar
-DTSTAMP:20261005T014033Z
+DTSTAMP:20261026T125113Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260918
 SUMMARY:【已官宣】第十三屆北京香山論壇
@@ -153,7 +270,7 @@ URL:http://www.mod.gov.cn/gfbw/qwfb/16481616.html
 END:VEVENT
 BEGIN:VEVENT
 UID:east-sea-fishing-ban-end-2026@china-political-calendar
-DTSTAMP:20261005T014033Z
+DTSTAMP:20261026T125113Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:【已官宣】東海伏季休漁期結束（海警護航赴釣
@@ -171,7 +288,7 @@ URL:https://udn.com/news/story/7331/9751532
 END:VEVENT
 BEGIN:VEVENT
 UID:caexpo-2026@china-political-calendar
-DTSTAMP:20261005T014033Z
+DTSTAMP:20261026T125113Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260922
 SUMMARY:【已官宣】第23屆中國—東盟博覽會
@@ -191,7 +308,7 @@ URL:https://www.news.cn/world/20260901/224d394430da46b1be0121b1c4a1a63c/c
 END:VEVENT
 BEGIN:VEVENT
 UID:politburo-economy-2026-q4-window@china-political-calendar
-DTSTAMP:20261005T014033Z
+DTSTAMP:20261026T125113Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261101
 SUMMARY:【預估】中央政治局第四季經濟會議觀察窗
@@ -205,7 +322,7 @@ URL:https://www.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
 UID:ccp-central-plenum-2026-autumn-window@china-political-calendar
-DTSTAMP:20261005T014033Z
+DTSTAMP:20261026T125113Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261030
 SUMMARY:【已官宣】二十屆五中全會
@@ -224,8 +341,28 @@ URL:https://www.news.cn/politics/leaders/20260921/6d2f7db5a4c1477bb588a75
  e1ad87a4b/c.html
 END:VEVENT
 BEGIN:VEVENT
+UID:ciie-2026@china-political-calendar
+DTSTAMP:20261026T125113Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261111
+SUMMARY:【已官宣】第九屆中國國際進口博覽會（進博會
+ ）
+DESCRIPTION:第九屆中國國際進口博覽會，2026年11月5日至10
+ 日在上海舉辦，虹橋國際經濟論壇同期舉行。主賓國為
+ 加拿大、斯里蘭卡；162個國家、地區和國際組織參與，
+ 4142家境外企業參展，展覽面積首次突破44萬平方公尺。
+ 商務部副部長鄢東於2026年10月16日國務院新聞辦公室發
+ 布會公布。\n來源：https://www.stdaily.com/web/gdxw/2026-10/16/co
+ ntent_597517.html
+LOCATION:上海國家會展中心
+STATUS:CONFIRMED
+SEQUENCE:0
+TRANSP:TRANSPARENT
+URL:https://www.stdaily.com/web/gdxw/2026-10/16/content_597517.html
+END:VEVENT
+BEGIN:VEVENT
 UID:pla-air-force-day-2026@china-political-calendar
-DTSTAMP:20261005T014033Z
+DTSTAMP:20261026T125113Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:中國人民解放軍空軍成立紀念日
@@ -239,7 +376,7 @@ URL:https://www.81.cn/
 END:VEVENT
 BEGIN:VEVENT
 UID:apec-leaders-2026@china-political-calendar
-DTSTAMP:20261005T014033Z
+DTSTAMP:20261026T125113Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261120
 SUMMARY:【已官宣】2026年APEC經濟領導人會議（深圳）
@@ -259,7 +396,7 @@ URL:https://english.www.gov.cn/news/202512/12/content_WS693c1432c6d00ca5f
 END:VEVENT
 BEGIN:VEVENT
 UID:central-economic-work-conference-2026-window@china-political-calendar
-DTSTAMP:20261005T014033Z
+DTSTAMP:20261026T125113Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261219
 SUMMARY:【預估】2026中央經濟工作會議觀察窗
@@ -273,8 +410,27 @@ TRANSP:TRANSPARENT
 URL:https://www.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
+UID:g20-summit-2026@china-political-calendar
+DTSTAMP:20261026T125113Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261216
+SUMMARY:【已官宣】2026年G20領導人峰會（美國邁阿密）
+DESCRIPTION:二十國集團（G20）第二十一次領導人峰會，2026
+ 年12月14日至15日在美國佛羅里達州邁阿密 Trump National Do
+ ral 舉行，由美國主辦。日期由美國國務院於2025年12月
+ 公布、2026年5月重申。中國出席人選尚未公布。\n來源
+ ：https://www.state.gov/releases/office-of-the-spokesperson/2026/05/the
+ -united-states-to-host-g20-foreign-ministers-meeting-in-atlanta-georgia
+LOCATION:美國佛羅里達州邁阿密 Trump National Doral
+STATUS:CONFIRMED
+SEQUENCE:0
+TRANSP:TRANSPARENT
+URL:https://www.state.gov/releases/office-of-the-spokesperson/2026/05/the
+ -united-states-to-host-g20-foreign-ministers-meeting-in-atlanta-georgia
+END:VEVENT
+BEGIN:VEVENT
 UID:central-rural-work-conference-2026-window@china-political-calendar
-DTSTAMP:20261005T014033Z
+DTSTAMP:20261026T125113Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261230
 SUMMARY:【預估】2026中央農村工作會議觀察窗
@@ -289,7 +445,7 @@ URL:https://www.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
 UID:pla-rocket-force-day-2026@china-political-calendar
-DTSTAMP:20261005T014033Z
+DTSTAMP:20261026T125113Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:中國人民解放軍火箭軍成立紀念日（原第二炮兵
@@ -305,7 +461,7 @@ URL:https://www.81.cn/js_208592/jdt_208593/16315566.html
 END:VEVENT
 BEGIN:VEVENT
 UID:ccdi-2027-window@china-political-calendar
-DTSTAMP:20261005T014033Z
+DTSTAMP:20261026T125113Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270117
 SUMMARY:【預估】2027年中央紀委全會觀察窗
@@ -319,7 +475,7 @@ URL:https://www.ccdi.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
 UID:cppcc-national-2027-window@china-political-calendar
-DTSTAMP:20261005T014033Z
+DTSTAMP:20261026T125113Z
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270312
 SUMMARY:【預估】2027年全國政協會議觀察窗
@@ -334,7 +490,7 @@ URL:https://www.cppcc.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
 UID:npc-national-2027-window@china-political-calendar
-DTSTAMP:20261005T014033Z
+DTSTAMP:20261026T125113Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270316
 SUMMARY:【預估】2027年全國人大會議觀察窗
@@ -350,7 +506,7 @@ URL:https://www.npc.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
 UID:pla-navy-day-2027@china-political-calendar
-DTSTAMP:20261005T014033Z
+DTSTAMP:20261026T125113Z
 DTSTART;VALUE=DATE:20270423
 DTEND;VALUE=DATE:20270424
 SUMMARY:中國人民解放軍海軍成立紀念日
@@ -364,7 +520,7 @@ URL:https://www.81.cn/js_208592/jdt_208593/10149031.html
 END:VEVENT
 BEGIN:VEVENT
 UID:pla-day-2027@china-political-calendar
-DTSTAMP:20261005T014033Z
+DTSTAMP:20261026T125113Z
 DTSTART;VALUE=DATE:20270801
 DTEND;VALUE=DATE:20270802
 SUMMARY:中國人民解放軍建軍節（八一建軍節）
@@ -378,7 +534,7 @@ URL:https://www.81.cn/
 END:VEVENT
 BEGIN:VEVENT
 UID:ccp-21st-congress-2027-window@china-political-calendar
-DTSTAMP:20261005T014033Z
+DTSTAMP:20261026T125113Z
 DTSTART;VALUE=DATE:20271001
 DTEND;VALUE=DATE:20271101
 SUMMARY:【待官宣】中共二十一大觀察窗
@@ -393,7 +549,7 @@ URL:https://www.gov.cn/
 END:VEVENT
 BEGIN:VEVENT
 UID:pla-air-force-day-2027@china-political-calendar
-DTSTAMP:20261005T014033Z
+DTSTAMP:20261026T125113Z
 DTSTART;VALUE=DATE:20271111
 DTEND;VALUE=DATE:20271112
 SUMMARY:中國人民解放軍空軍成立紀念日
@@ -407,7 +563,7 @@ URL:https://www.81.cn/
 END:VEVENT
 BEGIN:VEVENT
 UID:pla-rocket-force-day-2027@china-political-calendar
-DTSTAMP:20261005T014033Z
+DTSTAMP:20261026T125113Z
 DTSTART;VALUE=DATE:20271231
 DTEND;VALUE=DATE:20280101
 SUMMARY:中國人民解放軍火箭軍成立紀念日（原第二炮兵
