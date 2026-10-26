@@ -33,6 +33,17 @@
     "source": "https://www.npc.gov.cn/npc/c2/c30834/202603/t20260304_451977.html"
   },
   {
+    "uid": "boao-forum-2026@china-political-calendar",
+    "summary": "【已官宣】博鰲亞洲論壇2026年年會",
+    "start": "2026-03-24",
+    "end": "2026-03-28",
+    "status": "CONFIRMED",
+    "sequence": 0,
+    "location": "海南博鰲東嶼島",
+    "description": "博鰲亞洲論壇2026年年會，2026年3月24日至27日在海南博鰲舉行，主題為「塑造共同未來：新形勢、新機遇、新合作」。適逢論壇成立25週年，也是海南自貿港全島封關運作後首次年會。新華網2026年3月23日發布。",
+    "source": "https://www.news.cn/world/20260323/69b3abcf12d74701a0d5857243f3ec4b/c.html"
+  },
+  {
     "uid": "pla-navy-day-2026@china-political-calendar",
     "summary": "中國人民解放軍海軍成立紀念日",
     "start": "2026-04-23",
@@ -53,6 +64,28 @@
     "location": "北京",
     "description": "2026年北京香山論壇先導會，5月7日至9日在北京舉行。",
     "source": "https://www.mod.gov.cn/gfbw/xwfyr/16458478.html"
+  },
+  {
+    "uid": "straits-forum-2026@china-political-calendar",
+    "summary": "【已官宣】第十八屆海峽論壇大會",
+    "start": "2026-06-13",
+    "end": "2026-06-14",
+    "status": "CONFIRMED",
+    "sequence": 0,
+    "location": "福建廈門",
+    "description": "第十八屆海峽論壇大會於2026年6月13日在廈門舉行，中共中央政治局常委、全國政協主席王滬寧出席並致辭，重申一個中國原則與「九二共識」、反對「台獨」。論壇延續「擴大民間交流、深化融合發展」主題，設基層、青年、文化、經濟四大板塊共58項活動。新華網2026年6月13日發布。",
+    "source": "https://www.news.cn/20260613/8a131deb8d4744e5abba0e8c49ee715e/c.html"
+  },
+  {
+    "uid": "summer-davos-2026@china-political-calendar",
+    "summary": "【已官宣】2026夏季達沃斯論壇（第十七屆新領軍者年會）",
+    "start": "2026-06-23",
+    "end": "2026-06-26",
+    "status": "CONFIRMED",
+    "sequence": 0,
+    "location": "遼寧大連國際會議中心",
+    "description": "世界經濟論壇第十七屆新領軍者年會（夏季達沃斯論壇），2026年6月23日至25日在遼寧大連舉行，主題為「規模化創新」。閉幕時宣布第十八屆年會將於2027年在天津舉辦（日期未公布）。新華網2026年6月17日發布會期安排。",
+    "source": "https://www.news.cn/20260617/573064396c6d44bfa772d31882901663/c.html"
   },
   {
     "uid": "politburo-economy-2026-q3-window@china-political-calendar",
@@ -86,6 +119,39 @@
     "location": "北京",
     "description": "中國共產黨第二十屆中央紀律檢查委員會第六次全體會議，2026年8月22日在北京舉行。會議總結2026年上半年紀檢監察工作，選舉趙世勇為中央紀委副書記，選舉張忠為中央紀委常務委員會委員、副書記。新華社2026年8月22日受權發布全會公報。",
     "source": "https://www.news.cn/politics/20260822/66896bd92e254592af1dc67477d5711b/c.html"
+  },
+  {
+    "uid": "sco-summit-2026@china-political-calendar",
+    "summary": "【已官宣】上海合作組織成員國元首理事會第二十六次會議（比什凱克）",
+    "start": "2026-09-01",
+    "end": "2026-09-02",
+    "status": "CONFIRMED",
+    "sequence": 0,
+    "location": "吉爾吉斯比什凱克",
+    "description": "上海合作組織成員國元首理事會第二十六次會議，2026年9月1日在吉爾吉斯比什凱克舉行，由輪值主席國吉爾吉斯總統扎帕羅夫主持。國家主席習近平出席並發表題為《推動上海合作組織實現更高質量發展》的講話。適逢上合組織成立25週年。新華網2026年9月1日發布。",
+    "source": "https://www.news.cn/20260901/cc9589d33a5245bf885f6665e93b55fe/c.html"
+  },
+  {
+    "uid": "ciftis-2026@china-political-calendar",
+    "summary": "【已官宣】2026年中國國際服務貿易交易會（服貿會）",
+    "start": "2026-09-09",
+    "end": "2026-09-14",
+    "status": "CONFIRMED",
+    "sequence": 0,
+    "location": "北京首鋼園",
+    "description": "2026年中國國際服務貿易交易會，2026年9月9日至13日在北京首鋼園舉行，前三天為專業觀眾日、後兩天為公眾開放日，主賓國為挪威，約90個國家和國際組織設展辦會。",
+    "source": "https://www.ncsti.gov.cn/kjdt/ztbd/zggjfwmyjy/202609/t20260908_255509.html"
+  },
+  {
+    "uid": "brics-summit-2026@china-political-calendar",
+    "summary": "【已官宣】金磚國家領導人第十八次會晤（新德里）",
+    "start": "2026-09-12",
+    "end": "2026-09-14",
+    "status": "CONFIRMED",
+    "sequence": 0,
+    "location": "印度新德里",
+    "description": "金磚國家領導人第十八次會晤，2026年9月12日至13日在印度新德里舉行，印度為輪值主席國。國家主席習近平應印度總理莫迪邀請出席兩階段會議，並與莫迪會見；會後發表《金磚國家領導人第十八次會晤新德里宣言》。中國外交部2026年9月12日發布。",
+    "source": "https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_677220/xgxw_677226/202609/t20260912_12021146.shtml"
   },
   {
     "uid": "xiangshan-forum-2026-autumn-window@china-political-calendar",
@@ -143,6 +209,17 @@
     "source": "https://www.gov.cn/"
   },
   {
+    "uid": "ciie-2026@china-political-calendar",
+    "summary": "【已官宣】第九屆中國國際進口博覽會（進博會）",
+    "start": "2026-11-05",
+    "end": "2026-11-11",
+    "status": "CONFIRMED",
+    "sequence": 0,
+    "location": "上海國家會展中心",
+    "description": "第九屆中國國際進口博覽會，2026年11月5日至10日在上海舉辦，虹橋國際經濟論壇同期舉行。主賓國為加拿大、斯里蘭卡；162個國家、地區和國際組織參與，4142家境外企業參展，展覽面積首次突破44萬平方公尺。商務部副部長鄢東於2026年10月16日國務院新聞辦公室發布會公布。",
+    "source": "https://www.stdaily.com/web/gdxw/2026-10/16/content_597517.html"
+  },
+  {
     "uid": "pla-air-force-day-2026@china-political-calendar",
     "summary": "中國人民解放軍空軍成立紀念日",
     "start": "2026-11-11",
@@ -174,6 +251,17 @@
     "location": "北京",
     "description": "中央經濟工作會議通常於12月召開，總結當年經濟工作並部署下一年經濟工作。本事件為觀察窗，待官方公布後更新。",
     "source": "https://www.gov.cn/"
+  },
+  {
+    "uid": "g20-summit-2026@china-political-calendar",
+    "summary": "【已官宣】2026年G20領導人峰會（美國邁阿密）",
+    "start": "2026-12-14",
+    "end": "2026-12-16",
+    "status": "CONFIRMED",
+    "sequence": 0,
+    "location": "美國佛羅里達州邁阿密 Trump National Doral",
+    "description": "二十國集團（G20）第二十一次領導人峰會，2026年12月14日至15日在美國佛羅里達州邁阿密 Trump National Doral 舉行，由美國主辦。日期由美國國務院於2025年12月公布、2026年5月重申。中國出席人選尚未公布。",
+    "source": "https://www.state.gov/releases/office-of-the-spokesperson/2026/05/the-united-states-to-host-g20-foreign-ministers-meeting-in-atlanta-georgia"
   },
   {
     "uid": "central-rural-work-conference-2026-window@china-political-calendar",
