@@ -346,10 +346,10 @@
     "start": "2027-10-01",
     "end": "2027-11-01",
     "status": "TENTATIVE",
-    "sequence": 0,
+    "sequence": 1,
     "location": "北京",
-    "description": "中國共產黨全國代表大會通常每五年舉行一次。二十一大預期於2027年舉行，但正式日期尚待官方公布；此處僅設秋季觀察窗。",
-    "source": "https://www.gov.cn/"
+    "description": "二十屆五中全會公報（新華社2026年10月29日發布）：全會決定中國共產黨第二十一次全國代表大會於2027年下半年在北京召開。官方僅公布「下半年」，確切日期尚未公布；此處10月僅為依歷屆慣例設的觀察窗，不代表正式會期。",
+    "source": "https://www.gov.cn/yaowen/liebiao/202610/content_7084479.htm"
   },
   {
     "uid": "pla-air-force-day-2027@china-political-calendar",
@@ -361,6 +361,17 @@
     "location": "中國",
     "description": "中國人民解放軍空軍成立紀念日，紀念空軍於1949年11月11日正式成立。",
     "source": "https://www.81.cn/"
+  },
+  {
+    "uid": "g20-summit-2027@china-political-calendar",
+    "summary": "【已官宣】2027年G20領導人峰會（英國曼徹斯特）",
+    "start": "2027-11-27",
+    "end": "2027-11-29",
+    "status": "CONFIRMED",
+    "sequence": 0,
+    "location": "英國曼徹斯特 Manchester Central 會展中心",
+    "description": "二十國集團（G20）領導人峰會，2027年11月27日至28日在英國曼徹斯特 Manchester Central 會展中心舉行，由英國主辦。英國內閣辦公室2026年9月23日公布。中國出席人選尚未公布。",
+    "source": "https://www.gov.uk/government/news/manchester-to-host-world-leaders-at-the-2027-g20-summit"
   },
   {
     "uid": "pla-rocket-force-day-2027@china-political-calendar",
